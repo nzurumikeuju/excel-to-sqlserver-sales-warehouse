@@ -1,6 +1,6 @@
 --Step 2: Check for duplicate business rows
 --I used ROW_NUMBER() with PARTITION BY to identify duplicate records based 
---on business keys and isolate duplicate rows before removing them.î
+--on business keys and isolate duplicate rows before removing them.‚Äù
 WITH CTE AS (
     SELECT *,
            ROW_NUMBER() OVER (
