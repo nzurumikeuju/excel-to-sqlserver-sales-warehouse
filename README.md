@@ -162,7 +162,7 @@ After completing the SQL modeling, Power BI was used to build a 3-page interacti
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Technology category drives the highest revenue  
 - A small number of customers contribute significantly to profit  
@@ -201,7 +201,7 @@ README.md → Project documentation
 
 ---
 
-## 🔗 Author
+##  Author
 
 **Obianuju (Lynda) Nzurumike**  
 Data Analyst | Business Intelligence & Analytics Engineer  
